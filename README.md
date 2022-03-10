@@ -5,4 +5,4 @@ Aplicativo de Delivery na qual o usuário escolhe o pedido, no software está in
 
 
 
-Aplicativo foi desenvolvido em JavaScrip, Html e CSS (Em Construção)
+Aplicativo foi desenvolvido em JavaScrip (falta uns ajustes), Html e CSS
